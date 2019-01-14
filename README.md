@@ -2,6 +2,8 @@
 
 This launcher is based on an older **widescreen fix** by **ThirteenAG** --- you should now use the latest version at [https://thirteenag.github.io](https://thirteenag.github.io/wfp#mp2), along with my latest [**UniGame Launcher**](https://github.com/alex47exe/UniGame-Launcher/releases)
 
+------
+
 ***Features:***
 
 - automatically detects resolution and modifies it to *Scripts\MP2_widescreen_fix.ini*
